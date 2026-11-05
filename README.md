@@ -42,7 +42,7 @@ The bot uses this information to provide its features: XP and leaderboards, dail
 
 Storage and sharing
 
-The bot’s persistent data is stored in local files on the machine hosting it. The bot’s code does not include an analytics or advertising feature. Discord is used to receive commands and display bot responses; the hosting provider runs the bot and stores its files. [Name your hosting provider, if applicable.]
+The bot’s persistent data is stored in local files on the machine hosting it. The bot’s code does not include an analytics or advertising feature. Discord is used to receive commands and display bot responses; the hosting provider runs the bot and stores its files. 
 
 The bot does not automatically delete persistent data when a member leaves a server or when a logging feature is disabled. Disabling a feature stops future activity for that feature; it does not remove previously stored files or messages already posted in Discord.
 
@@ -54,7 +54,6 @@ The bot has no automatic retention schedule. XP, server settings, polls and vote
 
 Some bot commands remove or change only part of a member’s data: /resetxp resets XP, /clearwarnings clears warnings, and /background reset removes a custom background. These commands do not erase every related record; for example, moderation-history entries or poll votes are not removed by those commands.
 
-To request deletion or ask a question about bot-held data, contact [your contact details]. Server administrators can also contact the operator about data for their server. Messages already posted in Discord log channels may need to be deleted separately by someone with the appropriate Discord permissions.
 
 
 
